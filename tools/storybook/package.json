@@ -41,7 +41,7 @@
 		"@wordpress/base-styles": "catalog:wp-bundled",
 		"react": "18.3.x",
 		"react-dom": "18.3.x",
-		"storybook": "10.5.10",
+		"storybook": "10.6.2",
 		"typescript": "5.7.x",
 		"webpack": "catalog:tooling"
 	}
