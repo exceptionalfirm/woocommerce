@@ -43,7 +43,7 @@
 		"@wordpress/i18n": "catalog:wp-min",
 		"date-fns-tz": "^3.2.0",
 		"moment": "^2.29.4",
-		"qs": "^6.11.2"
+		"qs": "^6.16.1"
 	},
 	"devDependencies": {
 		"@babel/core": "catalog:tooling",

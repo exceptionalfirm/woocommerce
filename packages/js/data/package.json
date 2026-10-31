@@ -77,7 +77,7 @@
 		"@wordpress/i18n": "catalog:wp-min",
 		"@wordpress/url": "catalog:wp-min",
 		"md5": "^2.3.0",
-		"qs": "^6.11.2",
+		"qs": "^6.16.1",
 		"rememo": "^4.0.2"
 	},
 	"publishConfig": {
